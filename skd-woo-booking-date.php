@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: SKD Woo Booking Date
+Plugin Name: DC Woo Booking Date
 Description: A custom plugin to add booking date field in WooCommerce product.
 Version: 1.0
-Author: SKD
+Author: DC
 Text Domain: skd-woo-booking-date
 */
 
